@@ -4,6 +4,14 @@ Video motion graphics ngắn, khung dọc 9:16, dựng bằng Claude và [HyperF
 
 Repo này chỉ chứa video thành phẩm. Mã nguồn để riêng.
 
+## Bát Tràng (12 giây)
+
+"Nhất xương, nhì da, thứ ba dạc lò": lò bầu vẽ từng bầu bằng nét mực, khói bay lên thành chiếc bình, hoa lam loang trên men, men rạn lan ra, cuối cùng đóng triện. Âm thanh tự tổng hợp: gõ gỗ, lửa lách tách, tiếng sứ.
+
+<img src="videos/bat-trang-preview.gif" width="300" alt="Bát Tràng, bản xem trước">
+
+Bản đầy đủ 1080 × 1920, 30 khung/giây, có tiếng: [bat-trang.mp4](videos/bat-trang.mp4)
+
 ## Sóng lặng (10 giây)
 
 Tranh thủy mặc: núi nhiều lớp, mặt trời đỏ, con thuyền trôi trong sương. Âm thanh tự tổng hợp, khớp từng chuyển động.
